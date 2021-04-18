@@ -1,0 +1,3 @@
+Prakash,8000
+Aysh,10000
+Niraj,13221
